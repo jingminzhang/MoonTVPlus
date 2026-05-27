@@ -13,4 +13,3 @@ binding = "ASSETS"
 [vars]
 NODE_ENV = "production"
 BUILD_TARGET = "cloudflare"
-NEXT_PUBLIC_STORAGE_TYPE = "upstash"
